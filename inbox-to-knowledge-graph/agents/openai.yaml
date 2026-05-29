@@ -1,0 +1,4 @@
+interface:
+  display_name: "收件箱入库"
+  short_description: "清洗收件箱资料分类生成知识节点并更新索引"
+  default_prompt: "Use $inbox-to-knowledge-graph to process the latest inbox material: preserve the original, detect the material type, create a structured Obsidian note, update relevant indexes, add meaningful links, and output an import report."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品案例方法论"
+  short_description: "独立拆产品案例竞品破局机会发现成功归因发展问题面试表达"
+  default_prompt: "Use $product-case-methodology to decompose this product case: what it did, why it succeeded, what it captured versus competitors or how it discovered the opportunity, post-0-1 development, growth problems and solutions, flywheels, risks, and interview-ready summaries."

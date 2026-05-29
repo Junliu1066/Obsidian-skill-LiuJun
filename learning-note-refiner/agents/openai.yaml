@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习笔记精炼"
+  short_description: "Refine learning notes with summaries diagrams dedupe and SOPs"
+  default_prompt: "Use $learning-note-refiner to refine this selected or current note: remove duplicates, add a top summary, add diagrams/tables, and preserve Obsidian links."

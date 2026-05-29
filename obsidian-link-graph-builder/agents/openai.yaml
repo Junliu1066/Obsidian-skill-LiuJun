@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 双链图谱"
+  short_description: "自动出链链入挂索引修复知识图谱关系"
+  default_prompt: "Use $obsidian-link-graph-builder to connect the current note into my Obsidian knowledge graph: add meaningful outbound links, update relevant indexes/MOCs/method notes for backlinks, avoid over-linking generic words, and report all changes."
